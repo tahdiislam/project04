@@ -166,3 +166,52 @@ h2 {
 }
 
 /* fifth section ends here */
+
+/* sixth section starts here */
+
+.div04 {
+    width: 877px;
+    height: 184px;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.div04 h2 {
+    font-size: 40px;
+    padding-bottom: 0;
+}
+
+.div05 {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1140px;
+    margin: 0 auto;
+}
+
+.div06 {
+    width: 364px;
+    height: 481px;
+    margin: 0 12px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+}
+
+.div06 img {
+    width: 364px;
+    border-radius: 5px;
+}
+
+.div06 h4 {
+    padding: 0 28px; 
+}
+
+.div06 p {
+    padding: 0 28px 20px 28px;
+}
+
+.div06 a {
+    margin: 0 28px;
+}
+
+/* sixth section ends here */
