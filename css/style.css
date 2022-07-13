@@ -110,10 +110,6 @@ h2 {
 
 /* fourth section starts here */
 
-#fourth-section {
-    margin-bottom: 130px;
-}
-
 .heading01 {
     margin: 0 auto;
     width: 664px;
@@ -152,3 +148,21 @@ h2 {
 }
 
 /* fourth section ends here */
+
+/* fifth section starts here */
+
+#fifth-section {
+    display: flex;
+    justify-content: space-evenly;
+    width: 1140px;
+    margin: 130px auto;
+
+}
+
+.fifth-img {
+    width: 364px;
+    height: 391px;
+    border-radius: 5px;
+}
+
+/* fifth section ends here */
