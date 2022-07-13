@@ -1,13 +1,13 @@
 body {
-    font-family: 'Lobster', cursive;
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 :root {
     --font-color: #fff;
-    --box-shadaw: #0e3879;
+    --box-shadaw: #588ad4;
 }
 
 /* first section starts here */
@@ -48,7 +48,7 @@ h2 {
 }
 
 .btn:hover {
-    box-shadow: -5px -5px 40px var(--box-shadaw);
+    box-shadow: 5px 5px 50px var(--box-shadaw);
 }
 
 /* first section ends here */
@@ -169,6 +169,10 @@ h2 {
 
 /* sixth section starts here */
 
+#sixth-section {
+    margin-bottom: 130px;
+}
+
 .div04 {
     width: 877px;
     height: 184px;
@@ -199,7 +203,7 @@ h2 {
 
 .div06 img {
     width: 364px;
-    border-radius: 5px;
+    border-radius: 5px 5px 0 0;
 }
 
 .div06 h4 {
@@ -215,3 +219,28 @@ h2 {
 }
 
 /* sixth section ends here */
+
+/* footer section starts here */
+
+footer {
+    width: 1350px;
+    height: 177px;
+    background-color: #000;
+    color: #fff;
+}
+
+
+footer h2 {
+    font-family: 'Lobster', cursive;
+    color: #EF233C;
+    padding-top: 42px;
+    font-weight: 500;
+    font-size: 40px;
+    text-align: center;
+}
+
+footer p {
+    text-align: center;
+}
+
+/* footer section ends here */
