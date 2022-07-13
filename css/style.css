@@ -107,3 +107,48 @@ h2 {
 }
 
 /* third section ends here */
+
+/* fourth section starts here */
+
+#fourth-section {
+    margin-bottom: 130px;
+}
+
+.heading01 {
+    margin: 0 auto;
+    width: 664px;
+    height: 184px;
+    text-align: center;
+}
+
+.heading01 h2 {
+    width: 492px;
+    margin: 0 auto;
+}
+
+.div01 {
+    display: flex;
+    width: 946px;
+    margin: 0 auto;
+}
+
+.div02 {
+    width: 461px;
+    height: 225px;
+    background-color: #FEF4F5;
+    padding: 40px 42px 39px 40px;
+    margin: 12px;
+}
+
+.div03 {
+    display: flex;
+}
+
+.div03-01 img {
+    width: 56px;
+    height: 56px;
+    padding-right: 30px;
+    padding-top: 30px;
+}
+
+/* fourth section ends here */
